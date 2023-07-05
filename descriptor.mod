@@ -42,3 +42,4 @@ replace_path = "gfx/fonts"
 
 picture="thumbnail.png"
 supported_version="1.12.*"
+path="mod/PaxBritannicaRedux"
